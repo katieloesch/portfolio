@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio_frontend/static/css/main.a4a8e638.css",
-    "main.js": "/portfolio_frontend/static/js/main.5269c081.js",
+    "main.css": "/portfolio_frontend/static/css/main.73ea1c0f.css",
+    "main.js": "/portfolio_frontend/static/js/main.8bf43c05.js",
     "static/media/profile_pic.jpg": "/portfolio_frontend/static/media/profile_pic.1cd0476cb9bc5ef156b8.jpg",
     "static/media/duckdna.jpg": "/portfolio_frontend/static/media/duckdna.9ca81639a5bcdfea748c.jpg",
     "static/media/dnaMolecule.png": "/portfolio_frontend/static/media/dnaMolecule.e2ad63acf5b7ee804a89.png",
@@ -23,11 +23,14 @@
     "static/media/ww7.png": "/portfolio_frontend/static/media/ww7.330c39ac0b7351859943.png",
     "static/media/ww8.jpg": "/portfolio_frontend/static/media/ww8.8ded1db36e8479347e70.jpg",
     "static/media/ou3.png": "/portfolio_frontend/static/media/ou3.645cf61a911ad8ea69fc.png",
+    "static/media/nulshock.woff": "/portfolio_frontend/static/media/nulshock.1495c236cf895a905c8a.woff",
     "static/media/brand1.png": "/portfolio_frontend/static/media/brand1.1101df570f040233f77b.png",
     "static/media/brand4.png": "/portfolio_frontend/static/media/brand4.f8c9e0157155c3b3d616.png",
     "static/media/ga2.jpg": "/portfolio_frontend/static/media/ga2.a093d690bb16c4da5b70.jpg",
     "static/media/ga.jpg": "/portfolio_frontend/static/media/ga.08fd1fb14eea4211102d.jpg",
     "static/media/brand3.png": "/portfolio_frontend/static/media/brand3.f12421174448aa49c54b.png",
+    "static/media/goodtimes-regular.woff": "/portfolio_frontend/static/media/goodtimes-regular.441a70c07195fd0ecd78.woff",
+    "static/media/terminator.woff": "/portfolio_frontend/static/media/terminator.22df4a8e9ef393333f83.woff",
     "static/media/ga_vector.png": "/portfolio_frontend/static/media/ga_vector.a99a54bcb11c2b3f37d0.png",
     "static/media/postgresql_primary.svg": "/portfolio_frontend/static/media/postgresql_primary.26f2dce8a45f711f8958848ff8757c67.svg",
     "static/media/postgresql_color.svg": "/portfolio_frontend/static/media/postgresql_color.63d7049342a5fc3a2b9a.svg",
@@ -90,11 +93,11 @@
     "static/media/npm_primary.svg": "/portfolio_frontend/static/media/npm_primary.6145cb1fa74fb7276ea6fd2280839c8e.svg",
     "static/media/tailwind_color.svg": "/portfolio_frontend/static/media/tailwind_color.515e5e1424476591acd0.svg",
     "static/media/tailwind_primary.svg": "/portfolio_frontend/static/media/tailwind_primary.21f255d837e57dac261da4202c5535df.svg",
-    "main.a4a8e638.css.map": "/portfolio_frontend/static/css/main.a4a8e638.css.map",
-    "main.5269c081.js.map": "/portfolio_frontend/static/js/main.5269c081.js.map"
+    "main.73ea1c0f.css.map": "/portfolio_frontend/static/css/main.73ea1c0f.css.map",
+    "main.8bf43c05.js.map": "/portfolio_frontend/static/js/main.8bf43c05.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4a8e638.css",
-    "static/js/main.5269c081.js"
+    "static/css/main.73ea1c0f.css",
+    "static/js/main.8bf43c05.js"
   ]
 }
